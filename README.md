@@ -5,20 +5,19 @@
          <h3 align="center">Community Leader | Developer | Coder | Writer 😁 </h3>
 
 ### About Me 🚀
-🎓 I’m a final year engineering student pursuing my Bachelors in Electronics & Communication Engineering from University Institute of Technology RGPV. </br>
+🎓 I’m a Software Developer currently working at Persistent Systems. </br>
 👨‍💻  I am passionate about ML , IoT, Cloud, DevOps and Cypto. </br>
 
 ### My Experiences 🙌
+- [Software Engineer](https://www.persistent.com/) at Persistent Systems – Working as a Salesforce Developer, and using different programming languages such as Java, JavaScript & Apex.
 - [Founder Freaky Diodes](https://freakydiodes.com) - Founded a community named Freaky Diodes keep in mind to provide opportunities, projects, books in the field of Electronics and Technology.
-- [Software Engineer Intern](https://www.persistent.com/) at Persistent Systems – Working as a Salesforce Developer, and using different programming languages such as Java, JavaScript & Apex.
 - [Google Developer Student Club Lead]( https://gdsc.community.dev/university-institute-of-technology-rgpv/ ) - Serving as a GDSC Chapter Lead for UIT RGPV, Conducted severals events & workshops on Google Cloud, Git & GitHub, Hacktoberfest, Solution Challenge, etc.
 - [Microsoft Learn Student Ambassador]( https://studentambassadors.microsoft.com/ ) – Selected as a MLSA back in 2020, and hosted & conducted several Workshops & Hackathon.
 
 - [Freaky Diodes](https://freakydiodes.com) - Freaky Diodes is a website deployed on Microsoft Azure Cloud, It is a Azure Virtual Machine with Linux with integrated SQL Database and it can be scale according to need, and the data is protected with Azure Security. Freaky Diodes aims to provide educational information and resources such as projects, books, jobs, internship details to engineering students.
 
 ### Achievements 🏅
-- Completed 30 Days of Google Cloud [QWIKLABS]( https://www.qwiklabs.com/) and achieved various batches for completing Google Cloud Labs through QWIKLABS 
-- Azure Certified [ Microsoft Azure AZ-900 ](https://www.credly.com/badges/704fe5b6-1c3c-4670-847f-2fa1e79164e1?source=linked_in_profile) Passed the Azure Fundamentals exam with 850/900 marks.
+- 2x Azure Certified [ Microsoft Azure AZ-900/AI-900 ](https://www.credly.com/badges/704fe5b6-1c3c-4670-847f-2fa1e79164e1?source=linked_in_profile) 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
