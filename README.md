@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Rishabh Gupta</h1>
-         <h3 align="center">Community Leader | Developer | Coder | Writer 😁 </h3>
+         <h3 align="center">Community Leader | Developer | Founder 😁 </h3>
 
 ### About Me 🚀
 🎓 I’m a Software Developer currently working at Persistent Systems. </br>
@@ -22,6 +22,6 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rishabhgupta1/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="Rishabh Gupta" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/whoami_apoorv" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="__r.i.s.h.i_" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/whoami_apoorv" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="__rishabhgupta1" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/__rishabhgupta" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="rishabhgupta" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 </p>
