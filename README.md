@@ -5,14 +5,15 @@
          <h3 align="center">Community Leader | Developer | Founder 😁 </h3>
 
 ### About Me 🚀
-🎓 I’m a Senior Software Developer currently working at Persistent Systems. </br>
-👨‍💻  I am passionate about ML , IoT, Cloud, DevOps and Cypto. </br>
+🎓 I’m a Software Developer currently working at Salesforce, India. </br>
+👨‍💻  I am passionate about Salesforce, ML , IoT, Cloud, DevOps. </br>
 
 ### My Experiences 🙌
-- [Senior Software Engineer](https://www.persistent.com/) at Persistent Systems – Working as a Salesforce Developer, and using different programming languages such as Java, JavaScript & Apex.
-- [Founder Freaky Diodes](https://freakydiodes.com) - Founded a community named Freaky Diodes keep in mind to provide opportunities, projects, books in the field of Electronics and Technology.
+- [Technical Consultant](https://www.salesforce.com/) at Salesforce – Working as a Salesforce Developer, and using different programming languages such as Java, JavaScript & Apex.
+- [Senior Software Engineer](https://www.persistent.com/) at Persistent Systems – Worked as a Salesforce Developer, and using different programming languages such as Java, JavaScript & Apex.
 - [Organizer @MLBhopal](https://www.linkedin.com/company/mlbhopal/) - Organizer of Machine Learning Bhopal Community
 - [Organizer @OwaspBhopal](https://owasp.org/www-chapter-bhopal/) – Organizer of Owasp Bhopal Chapter.
+- [Founder Freaky Diodes](https://freakydiodes.com) - Founded a community named Freaky Diodes keep in mind to provide opportunities, projects, books in the field of Electronics and Technology.
 
 - [Freaky Diodes](https://freakydiodes.com) - Freaky Diodes is a website deployed on Microsoft Azure Cloud, It is a Azure Virtual Machine with Linux with integrated SQL Database and it can be scale according to need, and the data is protected with Azure Security. Freaky Diodes aims to provide educational information and resources such as projects, books, jobs, internship details to engineering students.
 
